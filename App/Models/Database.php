@@ -1,19 +1,21 @@
 <?php
-class Database {
-    private $host = 'localhost';
-    private $db_name = 'nome_do_banco';
-    private $username = 'usuario';
-    private $password = 'senha';
+
+class ConexaoBD {
+    private $host = 'localhost'; // servidor onde o banco de dados está hospedado
+    private $db_name = 'carava16_sistema'; // nome do banco de dados
+    private $username = ''; // usuário do banco de dados
+    private $password = ''; // senha do banco de dados
     public $conn;
+
 
     public function getConnection() {
         $this->conn = null;
 
         try {
-            $this->conn = new PDO("mysql:host=" . $this->host . ";dbname=" . $this->db_name, $this->username, $this->password);
-            $this->conn->exec("set names utf8");
-        } catch(PDOException $exception) {
-            echo "Erro de conexão: " . $exception->getMessage();
+            $this->conn = new PDO('mysql:host=' . $this->host . ';dbname=' . $this->db_name, $this->username, $this->password);
+            $this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        } catch(PDOException $e) {
+            echo 'Erro de conexão: ' . $e->getMessage();
         }
 
         return $this->conn;

@@ -5,7 +5,6 @@ require_once 'App/Controllers/HomeController.php';
 require_once 'App/Controllers/SobreController.php';
 require_once 'App/Controllers/ContatoController.php';
 require_once 'App/Controllers/LoginController.php';
-require_once 'App/Controllers/PainelController.php';
 require_once 'App/Controllers/DestinosController.php';
 
 // Desabilita a exibição de erros (para ambiente de produção)
@@ -28,9 +27,9 @@ $routes = [
     '/' => 'HomeController@index',
     '/sobre' => 'SobreController@index',
     '/contato' => 'ContatoController@index',
-    '/login' => 'LoginController@index',
-    '/painel'=> 'PainelController@index',
-    '/destinos'=> 'DestinosController@index'
+    '/painel' => 'LoginController@index',
+    '/destinos'=> 'DestinosController@index',
+    '/~carava16'=> 'HomeController@index'
 ];
 
 // Função para despachar a rota

@@ -3,7 +3,7 @@
 
 class LoginController {
     public function index() {
-        include 'App/Views/login.html';
+        include 'App/Views/login.php';        
     }
 }
 ?>

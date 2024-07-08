@@ -93,13 +93,6 @@ nav ul li .btn-orange {
 
 /* *text box  */
 
-.text-box {
-  text-align: start;
-  margin: 180px 0px 451px 41px;
-  position: relative;
-  top: 125px;
-}
-
 .text-box > h1 {
   color: var(--blue);
   font-size: 48px;
@@ -123,11 +116,11 @@ nav ul li .btn-orange {
   color: #fff1da;
   text-align: center;
   font-family: Poppins;
-  font-size: 23.942px;
+  font-size: 15.942px;
   font-weight: 500;
   border: none;
   padding: 1rem;
-  margin-top: 26px;
+  margin-top: 13px;
 }
 
 /* ? header-container design end here  */
@@ -860,7 +853,7 @@ nav ul li .btn-orange {
     display: none;
   }
   .text-box {
-    margin: -91px 0px 451px 41px;
+    margin: 0px 0px 451px 41px;
     top: 250px;
   }
   .text-box > h1 {
@@ -1035,10 +1028,7 @@ nav ul li .btn-orange {
   .nav-list {
     display: none;
   }
-  .text-box {
-    margin: 111px 0px 451px 41px;
-    top: 160px;
-  }
+
   .text-box > h1 {
     line-height: 60.381px;
     font-size: 44px;

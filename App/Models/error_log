@@ -1,0 +1,80 @@
+[02-Jul-2024 15:46:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:47:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:48:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:50:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:50:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:52:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:54:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:54:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:55:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:55:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:56:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:57:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:57:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:58:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 15:59:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 16:00:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 16:00:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 16:00:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[02-Jul-2024 16:01:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
+[08-Jul-2024 14:22:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/carava16/public_html/App/Models/getdestinos.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/carava16/public_html/App/Models/getdestinos.php on line 12
